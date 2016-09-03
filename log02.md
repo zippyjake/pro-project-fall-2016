@@ -1,12 +1,12 @@
 ## What did you do last week?
 
-*Your answer.*
+*I learned how  *
 
 ## What will you do next week?
 
-*Your answer.*
+*Soder the contorl board to the teensy.*
 
 ## Do you have any blockers?
 
-*Your answer.*
+*No.*
 
